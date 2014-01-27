@@ -1,0 +1,16 @@
+Hi,
+
+Kannst die sachen dir ja mal in aller Ruhe anschauen in der Tabelle current befinden sich die aktuellen Werten eines zustandes die würd ich gerne in das 
+Template bringen bsp. Garagentor "open" Roter Button "closed" grün, und den Aktuellen Stromverbrauch des "OWL"! Ebenfalls soll mit einen Button das Tor 
+wieder geschlossen werden das ganze ist dann eigentlich nur ne URL die auf den FHEM verweißt!
+Die anderen Werte könnte ich mir gut in einer Status Site vorstellen (Battery, State etc.)!
+
+Das schwierige wird glaub ich die OWL Daten aus der History Tabelle zu verarbeiten, hier hätt ich gerne mehrere Graphen Tagesdurchschnitt, Wochendurchnitt, 
+Monatsdurchschnitt sowie Jahresdurchschnitt, ich glaub hier kann man ne Menge mit den SQL Query`s abhandeln aber der durschnitt muss dann wohl im PHP gerechnet 
+werden ; )!!! 
+
+Ich glaub die Index.php ist schon garnicht mal so schlecht aber mir fehlt einfach die Idee wie ich das vernünftig ins Template bekommen soll!
+
+Für Ideen oder andere Vorschläge von die bin ich natürlich offen ; )!
+
+VG Ronny
